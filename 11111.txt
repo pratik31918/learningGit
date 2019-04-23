@@ -1,0 +1,20 @@
+bootstrap 
+
+
+html
+css and javascript 
+
+RWD -Responsive web design
+
+
+
+grid structure
+
+
+
+1                          2                   3                         4
+
+1        2             3             4
+1  2 3  4
+  
+
